@@ -1,10 +1,10 @@
 # tELegrAMZapReT
 
-tELegrAMZapReT возвращает фото, кружочки и звонки Telegram, когда провайдер режет медиа.
+Обновлённая версия с улучшенной поддержкой Telegram. Надежнее, быстрее, стабильнее
 
 tELegrAMZapReT возвращает фото, кружочки и звонки Telegram, когда провайдер режет медиа. обход блокировки Telegram, Telegram не отправляет фото, Telegram звонки не работают, zapret Telegram. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/ShipwrightFoundry/tELegrAMZapReT/releases/latest
-Код: https://github.com/ShipwrightFoundry/tELegrAMZapReT
+Релиз: https://github.com/shipwrightfoundry/tELegrAMZapReT/releases/latest
+Код: https://github.com/shipwrightfoundry/tELegrAMZapReT
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/ShipwrightFoundry/tELegrAMZapReT
+Страница: https://github.com/shipwrightfoundry/tELegrAMZapReT
